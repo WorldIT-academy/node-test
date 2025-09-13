@@ -1,4 +1,4 @@
 function user(name) {
-    return {name:name}
+    console.log()
 }
 console.log(user("Arhip"))
