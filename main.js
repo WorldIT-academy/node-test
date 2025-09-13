@@ -1,4 +1,4 @@
 function user(name) {
-    return {name:name}
+    let num = 10
 }
 console.log(user("Arhip"))
