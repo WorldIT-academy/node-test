@@ -1,1 +1,3 @@
-console.log(10 + 20)
+function sum(a,b){
+    return a + b
+}
